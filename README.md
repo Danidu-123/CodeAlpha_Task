@@ -1,2 +1,2 @@
-# CodeAlpha_Task
+# CodeAlpha_CollegeAlertApplication
 A College Alert Application 
